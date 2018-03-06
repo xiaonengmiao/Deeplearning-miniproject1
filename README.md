@@ -18,7 +18,7 @@ deactivate                       # Exit the virtual environment
 
 The following data, provided by Prof. Yang WANG from HKUST,
 
-[https://drive.google.com/folderview?id=0B-yDtwSjhaSCZ2FqN3AxQ3NJNTA&usp=sharing](https://drive.google.com/drive/folders/0B-yDtwSjhaSCZ2FqN3AxQ3NJNTA<Paste>)
+[https://drive.google.com/folderview?id=0B-yDtwSjhaSCZ2FqN3AxQ3NJNTA&usp=sharing](https://drive.google.com/drive/folders/0B-yDtwSjhaSCZ2FqN3AxQ3NJNTA)
 
 contains a 28 digital paintings of Raphael or forgeries.
 
