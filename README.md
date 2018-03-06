@@ -4,7 +4,7 @@
 
 ## Setup
 
-> It is recommended to use [`virtualenv`](http://docs.python-guide.org/en/latest/dev/virtualenvs/) to for the project. If you choose to use it, run the following (make sure you correctly installed `virtualenv`: `$pip install virtualenv`)
+It is recommended to use [`virtualenv`](http://docs.python-guide.org/en/latest/dev/virtualenvs/) to for the project. If you choose to use it, run the following (make sure you correctly installed `virtualenv`: `$pip install virtualenv`)
 
 ```bash
 virtualenv -p python3 .env       # Create a virtual environment (python3)
@@ -28,4 +28,6 @@ Download the data and unzip it into data folder:
 unzip data.zip -d data
 ```
 
+## Start IPython
 
+After you have the data, you should start the IPython notebook server from the miniproject1 directory, with the `jupyter notebook` command. You can now play around with the code.
