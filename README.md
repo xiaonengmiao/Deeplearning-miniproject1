@@ -1,6 +1,6 @@
 # Deep Learning: Towards Deeper Understanding 
 
-## Mini-Project 1. Feature Extraction and Transfer Learning
+## Mini-Project 1. Identification of Raphael’s paintings from the forgeries
 
 ## Setup
 
